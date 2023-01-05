@@ -5,7 +5,6 @@ An E-commerce Application APIs run on Swagger-UI using SpringBoot, Lombok, JDBC,
 # Online_Shopping_Application(Best-Buy.com)
 <img src="" width="25%">
 
-# striped-hammer-7479
 
 Best-Buy is an application which is used by admin and their Customer for Online Shopping 
 This application will help Customer to buy the products and view order details.
